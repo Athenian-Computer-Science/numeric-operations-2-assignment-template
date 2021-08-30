@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "python3 src/my_code.py",
+      "input": "11740",
+      "output": "That is 3.0 hours, 15.0 minutes and 40.0 seconds.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 0
+    },
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "python3 src/my_code.py",
+      "input": "3605",
+      "output": "That is 1.0 hours, 0.0 minutes and 5.0 seconds.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 0
+    }
+  ]
+}
