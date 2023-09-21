@@ -8,7 +8,7 @@ For this assignment, [write a program](src/my_code.py) that asks the user for a 
 * with sample user responses in ():
 ```
 Enter a number of seconds: (11730)
-That is 3.0 hours, 15.0 minutes and 30.0 seconds.
+That is 3 hours, 15 minutes and 30 seconds.
 ```
 Be sure to follow the format of the output. Your program will not pass the tests if you use a different format.
 Don't worry about the grammar for now - it's fine if you see `1.0 seconds` or other similar issues with singulars and plurals.
